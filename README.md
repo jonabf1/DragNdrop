@@ -2,7 +2,7 @@
   <img alt="" src="https://res.cloudinary.com/jonabf1/video/upload/v1566217052/bandicam_2019-08-19_09-14-11-800_cvhdgz.gif">
 </p>
 
-## :information_source: How To Use
+## How To Use
 
 ```bash
 # Clone this repository
