@@ -1,4 +1,4 @@
-<h1 style="text-align:"center";">/DragNdrop</h1>
+<h1 style="text-align:"center";">DragNdrop</h1>
 
 ### Como instalar
 - $ git clone https://github.com/jonabf1//DragNdrop
