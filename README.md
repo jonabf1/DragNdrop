@@ -1,12 +1,12 @@
 <h1 style="text-align:"center";">DragNdrop</h1>
 
-### Como instalar
+### :rocket: Como instalar
 - $ git clone https://github.com/jonabf1//DragNdrop
 - Vá para a pasta do repositorio
 - yarn install (instalar todas as dependências)
 - yarn start (iniciar aplicação)
 
-### :rocket: Dependência usadas
+### :rocket: Dependências usadas
 
 - icons
 - immer 
@@ -27,5 +27,6 @@
 
 ---
 
-Made with ♥ by [Jonathan](https://www.linkedin.com/in/jonathan-barros-franco)
-
+<p align="center">
+Feito com ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
+</p>
