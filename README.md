@@ -1,12 +1,12 @@
 <h1 style="text-align:"center";">DragNdrop</h1>
 
-### :rocket: Como instalar
+### :rocket: How install
 - $ git clone https://github.com/jonabf1//DragNdrop
-- Vá para a pasta do repositorio
-- yarn install (instalar todas as dependências)
-- yarn start (iniciar aplicação)
+- Go to repository folder
+- yarn install (install all dependencies)
+- yarn start (start app web)
 
-### :rocket: Dependências usadas
+### :rocket: Dependencies used
 
 - icons
 - immer 
@@ -19,7 +19,7 @@
 - react-dom
 - react-scripts
 
-#### 4. Resultado final
+#### 4. Final result
 
 <p align="center">
   <img alt="" src="https://res.cloudinary.com/jonabf1/video/upload/v1566217052/bandicam_2019-08-19_09-14-11-800_cvhdgz.gif">
@@ -28,5 +28,5 @@
 ---
 
 <p align="center">
-Feito com ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
+Made with ♥ by <a href="https://www.linkedin.com/in/jonathan-barros-franco">Jonathan</a>
 </p>
